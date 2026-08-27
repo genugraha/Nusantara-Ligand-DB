@@ -1,7 +1,6 @@
 # Nusantara-Ligand-DB: Comprehensive 3D Database of Indonesian Natural Products 🇮🇩
 
-**Intellectual Property Rights (HAKI) Registration:** EC002026156809  
-**DOI:** *10.5281/zenodo.22127902*
+![Open Access](https://img.shields.io/badge/Open%20Access-Yes-brightgreen) ![Format](https://img.shields.io/badge/Format-SDF%20%7C%20XLSX-blue) ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-orange) ![HAKI](https://img.shields.io/badge/HAKI-EC002026156809-purple) ![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22127902-blue)
 
 ## ⚖️ License & Terms of Use
 This database is strictly licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
