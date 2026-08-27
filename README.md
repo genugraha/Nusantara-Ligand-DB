@@ -1,7 +1,7 @@
 # Nusantara-Ligand-DB: Comprehensive 3D Database of Indonesian Natural Products 🇮🇩
 
 **Intellectual Property Rights (HAKI) Registration:** EC002026156809  
-**DOI:** *(Will be updated via Zenodo)*
+**DOI:** *10.5281/zenodo.22127902*
 
 ## ⚖️ License & Terms of Use
 This database is strictly licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
@@ -19,4 +19,4 @@ This repository contains a comprehensive chemoinformatics database mapping the s
 * **Comprehensive Metadata:** The `3D Database of Secondary Metabolites of Indonesian Biodiversity.xlsx` provides complete SMILES and analytical data.
 
 ## Usage and Citation
-This data infrastructure is provided as an open-source tool to elevate Indonesian biodiversity into global bioinformatics standards. If you use this database in your research, please cite the DOI (provided via Zenodo) and our related publications.
+This data infrastructure is provided as an open-source tool to elevate Indonesian biodiversity into global bioinformatics standards. If you use this database in your research, please cite the DOI (10.5281/zenodo.22127902) and our related publications.
