@@ -1,6 +1,6 @@
 # Nusantara-Ligand-DB: Comprehensive 3D Database of Indonesian Natural Products 🇮🇩
 
-**Intellectual Property Rights (HAKI) Registration:** [MASUKKAN_NOMOR_HAKI_ANDA_DI_SINI]  
+**Intellectual Property Rights (HAKI) Registration:** [EC002026156809]  
 **DOI:** *(Will be updated via Zenodo)*
 
 ## ⚖️ License & Terms of Use
